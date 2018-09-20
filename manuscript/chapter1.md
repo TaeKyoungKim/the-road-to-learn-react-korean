@@ -638,7 +638,7 @@ JSX와 `map()` 메서드로 반복문을 작성했습니다. 각 프로퍼티를
 ### 읽어보기
 
 * [[리액트 공식 문서] 리액트 리스트(lists)와 키(keys)](https://reactjs.org/docs/lists-and-keys.html)
-* [[MND] 자바스크립트 map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [[MDN] 자바스크립트 map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ### 실습하기
 * JSX 내 자바스크립트 표현식(expression)을 작성합니다.
@@ -781,7 +781,7 @@ App 클래스는 `Component` 클래스의 기능을 확장함으로, `Component`
 
 ### 읽어보기
 
-* [[MND] ES6 클래스](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
+* [[MDN] ES6 클래스](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
 
 {pagebreak}
 
